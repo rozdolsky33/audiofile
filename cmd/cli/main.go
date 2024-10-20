@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/rozdolsky33/audiofile/cmd/cli/command"
+	"github.com/rozdolsky33/audiofile/internal/interfaces"
 	"net/http"
 	"os"
-
-	"github.com/marianina8/audiofile/cmd/cli/command"
-	"github.com/marianina8/audiofile/internal/interfaces"
 )
 
 func main() {
