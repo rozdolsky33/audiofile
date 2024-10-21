@@ -1,6 +1,6 @@
-# github.com/dhowden/tag v0.0.0-20201120070457-d52dcb253c63
-## explicit
+# github.com/dhowden/tag v0.0.0-20240417053706-3d75831295e8
+## explicit; go 1.20
 github.com/dhowden/tag
-# github.com/google/uuid v1.3.0
+# github.com/google/uuid v1.6.0
 ## explicit
 github.com/google/uuid
